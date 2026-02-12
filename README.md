@@ -1,0 +1,1 @@
+# ollama3.2_version_ocr
